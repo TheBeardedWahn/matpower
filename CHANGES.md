@@ -24,6 +24,7 @@ Since last release
     at a bus could be detected in error if multiple generators at the bus
     had reactive ranges of very different sizes.
     *Thanks to Elis Nycander and Shrirang Abhyankar.*
+  - Add preliminary support for PARDISO v6.x.
 
 #### 11/29/17
   - Add new option `knitro.maxit` to set maximum number of iterations
