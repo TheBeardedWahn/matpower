@@ -36,6 +36,7 @@ Since last release
     9999 and/or 99999 as numerical proxies to indicate the absence of
     limits on generator `QMIN`, `QMAX` (replaced with `-Inf`, `Inf`) or
     branch `RATE_A`, `RATE_B`, `RATE_C` (replaced with 0).
+  - Add preliminary support for PARDISO v6.x.
 
 #### 11/29/17
   - Add new option `knitro.maxit` to set maximum number of iterations
